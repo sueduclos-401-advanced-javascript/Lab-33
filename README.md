@@ -1,6 +1,6 @@
 # Lab-33 - Class 33
 
-Code 401 Class 33 Virtual Store Phase 3 - Redux Additional Topics
+Code 401 Class 33 Virtual Store Phase 4 - Redux Additional Topics
 
 ## Project Name - Virtual Store app
 
